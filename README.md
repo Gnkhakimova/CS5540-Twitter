@@ -1,2 +1,3 @@
 # CS5540-Twitter
-Collect tweets
+Store , Analyze and Visualize Twitter’s tweets
+
