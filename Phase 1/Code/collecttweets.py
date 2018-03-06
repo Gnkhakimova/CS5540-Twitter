@@ -13,7 +13,7 @@ access_token_secret="FskYTykFTJnqplMod1HPZpxAkNr2Dn2ExKl0vdxJ4DTqP"
 class StdOutListener(StreamListener):
 
     def on_data(self, data):
-        with open('fetched_tweets_output.json','a') as tf:
+        with open('tweets_output.json','a') as tf:
             tf.write(data)           
             print(data)
             return True
@@ -22,4 +22,4 @@ if __name__ == '__main__':
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     stream = Stream(auth, StdOutListener())
-stream.filter(track=['CNN'])
+stream.filter(track=['BBC','CNN','NEWS'])
