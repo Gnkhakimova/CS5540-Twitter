@@ -2,7 +2,7 @@
 Store , Analyze and Visualize Twitter’s tweets
 
 # Phase #2:
-- Report: <br /><br />
+- Report: https://github.com/Gnkhakimova/CS5540-Twitter/blob/master/Phase%202/Phase%202(1).pdf<br /><br />
 - Input (collected tweets): <br /><br />
 - Code (Spark):  https://github.com/Gnkhakimova/CS5540-Twitter/tree/master/Phase%202/Code<br /><br />
 - Output:  <br /><br />
