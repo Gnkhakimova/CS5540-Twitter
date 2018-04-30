@@ -4,7 +4,7 @@ Store , Analyze and Visualize Twitter’s tweets
 # Phase #2:
 - Report: <br /><br />
 - Input (collected tweets): <br /><br />
-- Code (Spark):  <br /><br />
+- Code (Spark):  https://github.com/Gnkhakimova/CS5540-Twitter/tree/master/Phase%202/Code<br /><br />
 - Output:  <br /><br />
 
 # Phase #1:
